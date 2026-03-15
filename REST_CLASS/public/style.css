@@ -1,0 +1,11 @@
+h2{
+    color:maroon;
+}
+.user {
+    font-style: italic; 
+    /* Makes text slanted */
+}
+.post{
+    /* color:maroon; */
+    background-color:bisque;
+}
